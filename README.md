@@ -11,7 +11,7 @@ A different stock can be selected by changing the ticker name in the web.DataRea
 
 
 **2 Web Scrap & Visualisation <br/>** 
-A program used to scrap data from tables in websites and convert them into csv file. <br/>
+A program used to scrap data from tables in websites and convert them into CSV file. <br/>
 It then visualises the data as a heatmap. <br/>
 By default, data is scrapped from the S&P500 Wikipedia page. <br/>
 
