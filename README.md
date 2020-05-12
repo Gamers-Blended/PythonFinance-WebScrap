@@ -1,4 +1,5 @@
 # PythonFinance-WebScrap
+With reference from https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ
 ## Python for Finance
 
 **1: Plotting of Individual Stocks <br/>** 
