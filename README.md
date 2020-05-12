@@ -12,7 +12,7 @@ A different stock can be selected by changing the ticker name in the `web.DataRe
 
 **2: Web Scrap & Visualisation <br/>** 
 A program used to scrap data from tables in websites and convert them into CSV file. <br/>
-It then visualises the data as a heatmap. <br/>
+It then visualises the data from the CSV file as a correlation heatmap. <br/>
 By default, data is scrapped from the **S&P500 Wikipedia page**. <br/>
 
 ![Python Heatmap](https://user-images.githubusercontent.com/47865641/73657848-15baea80-46ce-11ea-9a22-1a169f167b8c.JPG)
